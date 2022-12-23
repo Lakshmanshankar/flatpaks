@@ -1,0 +1,7 @@
+data/gnome.org.spotsync.desktop.in
+data/gnome.org.spotsync.appdata.xml.in
+data/gnome.org.spotsync.gschema.xml
+src/hello-window.ui
+src/main.c
+src/hello-window.c
+

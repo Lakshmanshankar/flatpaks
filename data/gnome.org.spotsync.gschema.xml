@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="hello">
+	<schema id="gnome.org.spotsync" path="/gnome/org/spotsync/">
+	</schema>
+</schemalist>
